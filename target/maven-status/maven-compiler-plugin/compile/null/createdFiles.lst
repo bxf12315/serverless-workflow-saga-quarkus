@@ -1,0 +1,8 @@
+org/kie/kogito/Response.class
+org/kie/kogito/MockService.class
+org/kie/kogito/PaymentService.class
+org/kie/kogito/OrderService.class
+org/kie/kogito/ShippingService.class
+org/kie/kogito/Response$Type.class
+org/kie/kogito/StockService.class
+org/kie/kogito/ServiceException.class
